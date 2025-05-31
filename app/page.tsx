@@ -101,3 +101,11 @@ export default function Home() {
     </div>
   );
 }
+export default function Home() {
+  return (
+    <main>
+      <h1>Welcome to JAWBISS Movie Database!</h1>
+      <p>Explore a massive collection of movies, reviews, and more!</p>
+    </main>
+  );
+}
