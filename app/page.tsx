@@ -100,12 +100,11 @@ export default function Home() {
       </footer>
     </div>
   );
-}
-export default function Home() {
-  return (
-    <main>
+    <div>
       <h1>Welcome to JAWBISS Movie Database!</h1>
       <p>Explore a massive collection of movies, reviews, and more!</p>
-    </main>
-  );
-}
+      <img src="/globe.svg" alt="Globe icon" width={16} height={16} />
+      <footer>
+        <a href="https://nextjs.org">Go to nextjs.org</a>
+      </footer>
+    </div>
