@@ -107,4 +107,15 @@ export default function Home() {
       <footer>
         <a href="https://nextjs.org">Go to nextjs.org</a>
       </footer>
-    </div>
+    </div>export default function Page() {
+  return (
+    <main>
+      <h1>Welcome to my Next.js website!</h1>
+      <p>Yeh mera pehla Next.js page hai. Ab main apni marzi ka content yahan likh saktexport default function Page() {
+  return (
+    <main>
+      <h1>Welcome to my Next.js website!</h1>
+      <p>Yeh mera pehla Next.js page hai. Ab main apni marzi ka content yahan likh sakta hoon.</p>
+    </main>
+  );
+}
