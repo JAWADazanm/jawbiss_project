@@ -1,3 +1,5 @@
+// 🔁 Trigger redeploy
+
 app/logs/page.tsx
 'use client'
 import { useEffect, useState } from 'react'
